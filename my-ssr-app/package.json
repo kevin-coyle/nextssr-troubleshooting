@@ -1,0 +1,29 @@
+{
+  "name": "my-ssr-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@lit-labs/react": "^1.1.1",
+    "@types/node": "18.16.3",
+    "@types/react": "18.2.4",
+    "@types/react-dom": "18.2.3",
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.4",
+    "lit": "^2.7.3",
+    "next": "13.3.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@lit-labs/nextjs": "^0.1.1",
+    "@lit-labs/ssr": "^3.1.2",
+    "@lit-labs/ssr-react": "^0.1.1"
+  }
+}

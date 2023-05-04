@@ -1,0 +1,1 @@
+declare module 'kevcard/dist/my-element.es.js';
